@@ -1,0 +1,1 @@
+First major for Super Smash Bros Ultimate. Metascouter implemented Ultimate support and the [[Real Time API (RTAPI)]].
