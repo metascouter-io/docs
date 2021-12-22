@@ -4,9 +4,13 @@
 
 These docs are under construction :)
 
-## Current Status
-> 2021-05-11: Twitch live stream URLs are down.
+For ways you can output [[Metascouter]] stats, see [[Stat Sinks]].
+- [[Broadcast Overlays#Accessing Broadcast Overlays]]
 
+## New! Local Processing!
+[[Local Processing]]
+
+## Current Status
 - [x] Challenger Pack 1 character assets
 - [x] Challenger Pack 1 automatic [[Character Classification]]
 - [x] Challenger Pack 2 character assets
